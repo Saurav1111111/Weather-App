@@ -1,0 +1,2 @@
+1. dont give spaces betweeen number and px cux it will cause invalid property error in css
+ flex: 1, it signifies that the width of all other elements will be the same as their content, but the element with flex: 1 will be given the remaining full space
